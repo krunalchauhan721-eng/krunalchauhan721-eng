@@ -3,7 +3,7 @@
 [![Krunal Chauhan, Full Stack Engineer at Vnnovate Solutions. Laravel, React, Next.js, AI agents, automation and cloud.](https://github.com/krunalchauhan721-eng/krunalchauhan721-eng/raw/main/hero.svg)](https://github.com/krunalchauhan721-eng)
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://github.com/krunalchauhan721-eng/krunalchauhan721-eng/raw/main/btn-linkedin.svg" alt="LinkedIn" width="31%"></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://github.com/krunalchauhan721-eng/krunalchauhan721-eng/raw/main/btn-email.svg" alt="Email" width="31%"></a>
+<a href="mailto:krunalchauhan721@gmail.com"><img src="https://github.com/krunalchauhan721-eng/krunalchauhan721-eng/raw/main/btn-email.svg" alt="Email" width="31%"></a>
 <a href="https://github.com/krunalchauhan721-eng/krunal-portfolio"><img src="https://github.com/krunalchauhan721-eng/krunalchauhan721-eng/raw/main/btn-portfolio.svg" alt="Portfolio" width="31%"></a>
 
 </div>
