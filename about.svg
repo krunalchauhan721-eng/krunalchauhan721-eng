@@ -1,34 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 428" width="830" height="428" role="img" aria-labelledby="t d">
-<title id="t">System profile and how I build</title>
-<desc id="d">Full Stack Engineer at Vnnovate Solutions in Ahmedabad, Gujarat, India. Stack: Laravel, React, Next.js. Exploring AI agents and automation. Process: plan the system, build the product, ship with AI and cloud.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 412" width="830" height="412" role="img" aria-labelledby="t d">
+<title id="t">About</title>
+<desc id="d">Krunal Chauhan builds scalable applications and AI-powered systems. Role: Full Stack Engineer. Company: Vnnovate Solutions. Based in Ahmedabad, India. Exploring AI agents, automation and cloud technologies.</desc>
 <style>
 .mono{font-family:'JetBrains Mono','SF Mono',Menlo,Consolas,monospace}
-.sans{font-family:Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+.sans{font-family:Inter,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif}
 @media (prefers-reduced-motion:no-preference){
-.orbit{transform-box:view-box;transform-origin:690px 160px;animation:spin 26s linear infinite}
-.orbit2{transform-box:view-box;transform-origin:690px 160px;animation:spin 40s linear infinite reverse}
-.scan{animation:scan 7s linear infinite}
+.orbit{transform-box:view-box;transform-origin:722px 196px;animation:spin 26s linear infinite}
+.orbit2{transform-box:view-box;transform-origin:722px 196px;animation:spin 40s linear infinite reverse}
+.scan{animation:scan 8s linear infinite}
 .blink{animation:blink 1.1s steps(1) infinite}
-.flow{stroke-dasharray:5 5;animation:flow 1s linear infinite}
+.marq{animation:marq 24s linear infinite}
 @keyframes spin{to{transform:rotate(360deg)}}
-@keyframes scan{from{transform:translateY(-4px)}to{transform:translateY(330px)}}
+@keyframes scan{from{transform:translateY(-4px)}to{transform:translateY(440px)}}
 @keyframes blink{50%{opacity:0}}
-@keyframes flow{to{stroke-dashoffset:-10}}
+@keyframes marq{to{transform:translateX(-1000px)}}
 }
 </style>
-<rect x=".5" y="8.5" width="829" height="39" rx="12" fill="#101010" stroke="#2B241E"/><text x="22" y="34" class="mono" font-size="15" fill="#FF6A3D" font-weight="700">01</text><text x="58" y="34" class="mono" font-size="15" fill="#E6D5BD" letter-spacing="4">ABOUT</text><line x1="140" y1="28" x2="808" y2="28" stroke="#2B241E" stroke-width="2"/><line x1="140" y1="28" x2="210" y2="28" stroke="#D5360C" stroke-width="2"/><g transform="translate(0,56)">
-<rect x=".5" y=".5" width="409" height="371" rx="18" fill="#101010" stroke="#2B241E"/>
-<rect x="426.5" y=".5" width="403" height="371" rx="18" fill="#101010" stroke="#2B241E"/>
-<circle cx="40" cy="44" r="5" fill="#D5360C"/>
-<text x="56" y="49" class="mono" font-size="14" fill="#FF6A3D" letter-spacing="3">SYSTEM PROFILE</text>
-<line x1="40" y1="68" x2="370" y2="68" stroke="#2B241E"/>
-<text x="40" y="104" class="mono" font-size="13" fill="#9C9082" letter-spacing="2">ROLE</text><text x="40" y="129" class="sans" font-size="19" font-weight="600" fill="#E6D5BD">Full Stack Engineer</text><line x1="40" y1="144" x2="370" y2="144" stroke="#2B241E"/><text x="40" y="158" class="mono" font-size="13" fill="#9C9082" letter-spacing="2">COMPANY</text><text x="40" y="183" class="sans" font-size="19" font-weight="600" fill="#E6D5BD">Vnnovate Solutions</text><line x1="40" y1="198" x2="370" y2="198" stroke="#2B241E"/><text x="40" y="212" class="mono" font-size="13" fill="#9C9082" letter-spacing="2">LOCATION</text><text x="40" y="237" class="sans" font-size="19" font-weight="600" fill="#E6D5BD">Ahmedabad, Gujarat, India</text><line x1="40" y1="252" x2="370" y2="252" stroke="#2B241E"/><text x="40" y="266" class="mono" font-size="13" fill="#9C9082" letter-spacing="2">STACK</text><text x="40" y="291" class="sans" font-size="19" font-weight="600" fill="#E6D5BD">Laravel · React · Next.js</text><line x1="40" y1="306" x2="370" y2="306" stroke="#2B241E"/><text x="40" y="320" class="mono" font-size="13" fill="#9C9082" letter-spacing="2">EXPLORING</text><text x="40" y="345" class="sans" font-size="19" font-weight="600" fill="#E6D5BD">AI agents · automation</text>
-<circle cx="458" cy="44" r="5" fill="#D5360C"/>
-<text x="474" y="49" class="mono" font-size="14" fill="#FF6A3D" letter-spacing="3">HOW I BUILD</text>
-<rect x="458" y="78" width="340" height="66" rx="12" fill="#171310" stroke="#2B241E"/><text x="480" y="107" class="sans" font-size="19" font-weight="700" fill="#E6D5BD">Plan the system</text><text x="480" y="128" class="mono" font-size="13" fill="#9C9082">requirements · architecture · data</text>
-<line class="flow" x1="628" y1="146" x2="628" y2="182" stroke="#FF6A3D" stroke-width="2"/><path d="M622 177 L628 185 L634 177" fill="none" stroke="#FF6A3D" stroke-width="2"/>
-<rect x="458" y="190" width="340" height="66" rx="12" fill="#D5360C" stroke="#FF6A3D"/><text x="480" y="219" class="sans" font-size="19" font-weight="700" fill="#FFF3E6">Build the product</text><text x="480" y="240" class="mono" font-size="13" fill="#FFF3E6">Laravel · React · Next.js · APIs</text>
-<line class="flow" x1="628" y1="258" x2="628" y2="294" stroke="#FF6A3D" stroke-width="2"/><path d="M622 289 L628 297 L634 289" fill="none" stroke="#FF6A3D" stroke-width="2"/>
-<rect x="458" y="302" width="340" height="66" rx="12" fill="#171310" stroke="#2B241E"/><text x="480" y="331" class="sans" font-size="19" font-weight="700" fill="#E6D5BD">Ship with AI and cloud</text><text x="480" y="352" class="mono" font-size="13" fill="#9C9082">agents · automation · deploys</text>
+<rect x=".5" y=".5" width="829" height="51" rx="14" fill="#101010" stroke="#2E2620"/><text x="24" y="33" class="mono" font-size="18" fill="#FF6A3D" font-weight="700">01</text><text x="64" y="34" class="mono" font-size="20" fill="#E6D5BD" font-weight="700" letter-spacing="4">ABOUT</text><line x1="178" y1="26" x2="806" y2="26" stroke="#2E2620" stroke-width="2"/><line x1="178" y1="26" x2="258" y2="26" stroke="#D5360C" stroke-width="2"/><g transform="translate(0,72)">
+<defs><radialGradient id="ag" cx="480" cy="30" r="320" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#D5360C" stop-opacity=".30"/><stop offset="1" stop-color="#D5360C" stop-opacity="0"/></radialGradient>
+<clipPath id="lc"><rect width="510" height="340" rx="22"/></clipPath></defs>
+<g clip-path="url(#lc)"><rect width="510" height="340" fill="#181311"/><rect width="510" height="340" fill="url(#ag)"/></g>
+<rect x=".5" y=".5" width="509" height="339" rx="22" fill="none" stroke="#2E2620"/>
+<rect x="40" y="44" width="48" height="5" rx="2.5" fill="#D5360C"/>
+<text x="40" y="132" class="sans" font-size="38" font-weight="800" fill="#E6D5BD" letter-spacing="-1">Building scalable</text>
+<text x="40" y="182" class="sans" font-size="38" font-weight="800" fill="#E6D5BD" letter-spacing="-1">applications &amp;</text>
+<text x="40" y="232" class="sans" font-size="38" font-weight="800" fill="#FF6A3D" letter-spacing="-1">AI-powered systems.</text>
+<text x="40" y="282" class="sans" font-size="19" fill="#BDB19F">Exploring AI agents, automation</text>
+<text x="40" y="308" class="sans" font-size="19" fill="#BDB19F">and cloud technologies.</text>
+<rect x="530" y="0" width="300" height="100" rx="20" fill="#D5360C" stroke="#FF6A3D"/><text x="26" y="0" fill="none"/><text x="556" y="38" class="mono" font-size="14" fill="#FFF3E6" letter-spacing="3">ROLE</text><text x="556" y="74" class="sans" font-size="21" font-weight="800" fill="#FFF3E6">Full Stack Engineer</text>
+<rect x="530" y="120" width="300" height="100" rx="20" fill="#181311" stroke="#2E2620"/><text x="26" y="0" fill="none"/><text x="556" y="158" class="mono" font-size="14" fill="#9C9082" letter-spacing="3">COMPANY</text><text x="556" y="194" class="sans" font-size="21" font-weight="800" fill="#E6D5BD">Vnnovate Solutions</text>
+<rect x="530" y="240" width="300" height="100" rx="20" fill="#181311" stroke="#2E2620"/><text x="26" y="0" fill="none"/><text x="556" y="278" class="mono" font-size="14" fill="#9C9082" letter-spacing="3">BASED IN</text><text x="556" y="314" class="sans" font-size="21" font-weight="800" fill="#E6D5BD">Ahmedabad, India</text>
 </g>
 </svg>
