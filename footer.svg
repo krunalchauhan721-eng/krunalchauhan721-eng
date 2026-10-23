@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 150" width="830" height="150" role="img" aria-labelledby="t d">
+<title id="t">End of transmission</title>
+<desc id="d">Krunal Chauhan, Full Stack Engineer at Vnnovate Solutions, Ahmedabad, India.</desc>
+<style>
+.mono{font-family:'JetBrains Mono','SF Mono',Menlo,Consolas,monospace}
+.sans{font-family:Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+@media (prefers-reduced-motion:no-preference){
+.orbit{transform-box:view-box;transform-origin:690px 160px;animation:spin 26s linear infinite}
+.orbit2{transform-box:view-box;transform-origin:690px 160px;animation:spin 40s linear infinite reverse}
+.scan{animation:scan 7s linear infinite}
+.blink{animation:blink 1.1s steps(1) infinite}
+.flow{stroke-dasharray:5 5;animation:flow 1s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes scan{from{transform:translateY(-4px)}to{transform:translateY(330px)}}
+@keyframes blink{50%{opacity:0}}
+@keyframes flow{to{stroke-dashoffset:-10}}
+}
+</style>
+
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#D5360C" stop-opacity="0"/><stop offset=".5" stop-color="#D5360C"/><stop offset="1" stop-color="#D5360C" stop-opacity="0"/></linearGradient></defs>
+<rect x=".5" y=".5" width="829" height="149" rx="18" fill="#101010" stroke="#2B241E"/>
+<rect x="60" y="30" width="710" height="2" fill="url(#l)"/>
+<text x="415" y="66" text-anchor="middle" class="mono" font-size="13" fill="#9C9082" letter-spacing="5">END OF TRANSMISSION</text>
+<text x="415" y="104" text-anchor="middle" class="sans" font-size="26" font-weight="800" fill="#E6D5BD">Krunal Chauhan<tspan class="blink" fill="#D5360C"> ▍</tspan></text>
+<text x="415" y="130" text-anchor="middle" class="sans" font-size="15" fill="#9C9082">Full Stack Engineer · Vnnovate Solutions · Ahmedabad, India</text>
+
+</svg>

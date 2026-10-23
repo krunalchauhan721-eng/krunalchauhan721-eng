@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 292" width="830" height="292" role="img" aria-labelledby="t d">
+<title id="t">What I work on</title>
+<desc id="d">Four focus areas: backend, frontend, AI agents and cloud.</desc>
+<style>
+.mono{font-family:'JetBrains Mono','SF Mono',Menlo,Consolas,monospace}
+.sans{font-family:Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+@media (prefers-reduced-motion:no-preference){
+.orbit{transform-box:view-box;transform-origin:690px 160px;animation:spin 26s linear infinite}
+.orbit2{transform-box:view-box;transform-origin:690px 160px;animation:spin 40s linear infinite reverse}
+.scan{animation:scan 7s linear infinite}
+.blink{animation:blink 1.1s steps(1) infinite}
+.flow{stroke-dasharray:5 5;animation:flow 1s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes scan{from{transform:translateY(-4px)}to{transform:translateY(330px)}}
+@keyframes blink{50%{opacity:0}}
+@keyframes flow{to{stroke-dashoffset:-10}}
+}
+</style>
+<rect x=".5" y="8.5" width="829" height="39" rx="12" fill="#101010" stroke="#2B241E"/><text x="22" y="34" class="mono" font-size="15" fill="#FF6A3D" font-weight="700">02</text><text x="58" y="34" class="mono" font-size="15" fill="#E6D5BD" letter-spacing="4">WHAT I DO</text><line x1="190" y1="28" x2="808" y2="28" stroke="#2B241E" stroke-width="2"/><line x1="190" y1="28" x2="260" y2="28" stroke="#D5360C" stroke-width="2"/><g transform="translate(0,56)"><rect x="12" y="4" width="185" height="228" rx="16" fill="#171310" stroke="#2B241E"/><rect x="12" y="4" width="185" height="4" rx="2" fill="#D5360C"/><text x="32" y="46" class="mono" font-size="14" fill="#FF6A3D">01</text><text x="32" y="84" class="sans" font-size="19" font-weight="800" fill="#E6D5BD">BACKEND</text><text x="32" y="124" class="sans" font-size="15" fill="#9C9082">Laravel APIs and</text><text x="32" y="148" class="sans" font-size="15" fill="#9C9082">scalable services</text><text x="32" y="172" class="sans" font-size="15" fill="#9C9082">built to last</text><rect x="219" y="4" width="185" height="228" rx="16" fill="#171310" stroke="#2B241E"/><rect x="219" y="4" width="185" height="4" rx="2" fill="#D5360C"/><text x="239" y="46" class="mono" font-size="14" fill="#FF6A3D">02</text><text x="239" y="84" class="sans" font-size="19" font-weight="800" fill="#E6D5BD">FRONTEND</text><text x="239" y="124" class="sans" font-size="15" fill="#9C9082">React and Next.js</text><text x="239" y="148" class="sans" font-size="15" fill="#9C9082">interfaces that are</text><text x="239" y="172" class="sans" font-size="15" fill="#9C9082">fast and polished</text><rect x="426" y="4" width="185" height="228" rx="16" fill="#171310" stroke="#2B241E"/><rect x="426" y="4" width="185" height="4" rx="2" fill="#D5360C"/><text x="446" y="46" class="mono" font-size="14" fill="#FF6A3D">03</text><text x="446" y="84" class="sans" font-size="19" font-weight="800" fill="#E6D5BD">AI AGENTS</text><text x="446" y="124" class="sans" font-size="15" fill="#9C9082">Exploring agents,</text><text x="446" y="148" class="sans" font-size="15" fill="#9C9082">LLM workflows and</text><text x="446" y="172" class="sans" font-size="15" fill="#9C9082">smart automation</text><rect x="633" y="4" width="185" height="228" rx="16" fill="#171310" stroke="#2B241E"/><rect x="633" y="4" width="185" height="4" rx="2" fill="#D5360C"/><text x="653" y="46" class="mono" font-size="14" fill="#FF6A3D">04</text><text x="653" y="84" class="sans" font-size="19" font-weight="800" fill="#E6D5BD">CLOUD</text><text x="653" y="124" class="sans" font-size="15" fill="#9C9082">Deployments and</text><text x="653" y="148" class="sans" font-size="15" fill="#9C9082">cloud technologies</text><text x="653" y="172" class="sans" font-size="15" fill="#9C9082">that scale with you</text></g>
+</svg>
